@@ -168,7 +168,7 @@ msgstr "http://automattic.com/"
 msgctxt "comments title"
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s мишљењa на &#0132;%2$s&#0147;"
+msgstr[0] "%1$s мишљење на &#0132;%2$s&#0147;"
 msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
 msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
 
